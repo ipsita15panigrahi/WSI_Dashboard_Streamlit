@@ -1,0 +1,3 @@
+libvips-dev
+libgll-mess-glx
+python3-openslide
