@@ -1,0 +1,7 @@
+streamlit>=1.32
+tiatoolbox>=1.6
+openslide-bin>=4.0.0.8
+opencv-python>=4.8
+matplotlib>=3.8
+numpy>=1.24
+pandas>=2.0
